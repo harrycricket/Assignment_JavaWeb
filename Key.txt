@@ -1,0 +1,8 @@
+Login with Google
+ClientID: 
+255256168369-1om0qpgh1dig4i78csb6c8485tqo9c1j.apps.googleusercontent.com
+Client sercet: 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
+
+reCAPTCHA
+Copy site key: 6LdNyaolAAAAAFiAJQumIplsTfKO2UBk_JUVBCoZ
+Copy secret key: 6LdNyaolAAAAANpi35UPw26yisflxBtAVTc4I5VZ
